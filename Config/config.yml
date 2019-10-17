@@ -1,0 +1,22 @@
+---
+DataDriven:
+  - excel:
+       read_path: C:\Users\Administrator\Desktop\test.xlsx
+       write_path: C:\Users\Administrator\Desktop\test1.xlsx
+       testSheet:  test
+  - mysql:
+       type:
+       host:
+       port:
+       user:
+       password:
+Http:
+    Host: http://api.jh.hunbasha.cn
+Mail:
+    Host:
+    Port:
+    From_address:
+    To_address:
+    Mail_pass:
+Log:
+    Path: E:\apiLog\api.log
