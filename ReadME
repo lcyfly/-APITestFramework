@@ -1,6 +1,6 @@
 #APITestFramework
 
--基于yaml+excel的http接口测试框架，写了一半多发现了个更强大的httprunner，故停止了造轮子学习httprunner
+-基于yaml+excel的http接口测试框架，写了一半发现了httprunner，故停止了造轮子学习httprunner
 
 -用例描述的形式与httprunner一致，使用yaml格式来描述接口，一个yaml文件是一条case，一条case由多个接口组成。
 
